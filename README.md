@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=color%3D0%3A101923%2C55%3A1A3549%2C100%3A3A687E&section=header&reversal=true&text=Eduardo+Carvalho&textBg=false&fontColor=F4F1F4&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=0000000&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
 ## Hi there 👋
 
 <!--
