@@ -1,4 +1,12 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:101923,55:1A3549,100:3A687E&height=230&section=header&text=Eduardo%20Carvalho&fontSize=52&fontColor=F4F7FA&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=C5D0D8)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:101923,55:1A3549,100:3A687E&height=230&section=header&text=Eduardo%20Carvalho&fontSize=45&fontColor=F4F7FA&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=C5D0D8)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=22&duration=3000&pause=1000&color=C5D0D8&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+Student;Full+Stack+Developer;Building+with+Python+and+FastAPI&multiline=false)](https://git.io/typing-svg)-->
+<p align="center">
+  <img
+    src="./assets/Eduardo_Carvalho_Typing_Gradient.svg"
+    width="700"
+    alt="Computer Science Student, Full Stack Developer"
+  >
+</p>
 ## Hi there 👋
 
 <!--
