@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="60" viewBox="0 0 700 60" role="img" aria-labelledby="title desc">
+  <title id="title">Eduardo Carvalho — animated professional roles</title>
+  <desc id="desc">Typing animation cycling through Computer Science Student, Full Stack Developer, and Building with Python and FastAPI.</desc>
+
+  <defs>
+    <!--
+      Palette derived from the banner colors and mixed approximately 45% toward white.
+      Contrast against GitHub dark canvas #0D1117:
+      #7C8186 = 4.81:1 | #81909B = 5.76:1 | #93ACB8 = 7.96:1
+    -->
+    <linearGradient id="typingGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C8186"/>
+      <stop offset="0.48" stop-color="#81909B"/>
+      <stop offset="1" stop-color="#93ACB8"/>
+    </linearGradient>
+
+    <mask id="revealLine1">
+      <rect x="189" y="9" width="322" height="42" fill="white">
+        <animate attributeName="width" dur="12s" repeatCount="indefinite"
+          values="0;322;322;0;0" keyTimes="0;0.18;0.26;0.32;1"/>
+      </rect>
+    </mask>
+
+    <mask id="revealLine2">
+      <rect x="216" y="9" width="268" height="42" fill="white">
+        <animate attributeName="width" dur="12s" repeatCount="indefinite"
+          values="0;0;268;268;0;0" keyTimes="0;0.33;0.51;0.59;0.65;1"/>
+      </rect>
+    </mask>
+
+    <mask id="revealLine3">
+      <rect x="137" y="9" width="426" height="42" fill="white">
+        <animate attributeName="width" dur="12s" repeatCount="indefinite"
+          values="0;0;426;426;0" keyTimes="0;0.66;0.84;0.93;1"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <style>
+    .typing-text {
+      fill: url(#typingGradient);
+      font-family: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      font-size: 22px;
+      font-weight: 500;
+      letter-spacing: 0.2px;
+    }
+    .cursor {
+      fill: #93ACB8;
+    }
+  </style>
+
+  <!-- Static fallback: the first line remains visible if SVG animation is unavailable. -->
+  <g opacity="1">
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+      values="1;1;0;0" keyTimes="0;0.32;0.33;1"/>
+    <text id="textLine1" class="typing-text" x="350" y="38" text-anchor="middle" mask="url(#revealLine1)">Computer Science Student</text>
+    <rect class="cursor" x="189" y="15" width="2.5" height="28" rx="1">
+      <animate attributeName="x" dur="12s" repeatCount="indefinite"
+        values="189;511;511;189;189" keyTimes="0;0.18;0.26;0.32;1"/>
+      <animate attributeName="opacity" dur="0.72s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1"/>
+    </rect>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.65;0.66;1"/>
+    <text id="textLine2" class="typing-text" x="350" y="38" text-anchor="middle" mask="url(#revealLine2)">Full Stack Developer</text>
+    <rect class="cursor" x="216" y="15" width="2.5" height="28" rx="1">
+      <animate attributeName="x" dur="12s" repeatCount="indefinite"
+        values="216;216;484;484;216;216" keyTimes="0;0.33;0.51;0.59;0.65;1"/>
+      <animate attributeName="opacity" dur="0.72s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1"/>
+    </rect>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+      values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.99;1"/>
+    <text id="textLine3" class="typing-text" x="350" y="38" text-anchor="middle" mask="url(#revealLine3)">Building with Python and FastAPI</text>
+    <rect class="cursor" x="137" y="15" width="2.5" height="28" rx="1">
+      <animate attributeName="x" dur="12s" repeatCount="indefinite"
+        values="137;137;563;563;137" keyTimes="0;0.66;0.84;0.93;1"/>
+      <animate attributeName="opacity" dur="0.72s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1"/>
+    </rect>
+  </g>
+</svg>
