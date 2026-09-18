@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=color%3D0%3A101923%2C55%3A1A3549%2C100%3A3A687E&section=header&reversal=true&text=Eduardo+Carvalho&textBg=false&fontColor=F4F1F4&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=0000000&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:101923,55:1A3549,100:3A687E&height=230&section=header&text=Eduardo%20Carvalho&fontSize=52&fontColor=F4F7FA&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Backend%20Developer&descSize=18&descAlignY=60&descColor=C5D0D8)
 ## Hi there 👋
 
 <!--
