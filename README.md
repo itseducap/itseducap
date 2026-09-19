@@ -7,7 +7,7 @@
   >
 </p>
 <br>
-<h1>About Me:</h1>
+<h2>About Me:</h2>
 
 👋 I am a Full Stack Developer eager to learn.  
 👀 I currently work with marketing and web dev.  
