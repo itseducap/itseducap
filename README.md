@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:101923,55:1A3549,100:3A687E&height=230&section=header&text=Eduardo%20Carvalho&fontSize=45&fontColor=F4F7FA&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=C5D0D8)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:101923,55:1A3549,100:3A687E&height=230&section=header&text=Eduardo%20Carvalho&fontSize=45&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=C5D0D8)
 <p align="center">
   <img
     src="./assets/Eduardo_Carvalho_Typing_Gradient.svg"
