@@ -52,7 +52,7 @@ know their customers better. To know more: [Wi-Fi Portal](https://github.com/its
 
 <h2>📚 What am I learning?</h2>
 
-Currently I'm learning POO with Python, JavaScript (Even though I don't like it) and Vue. Also learning sqlalchemy and API's.
+Currently I'm learning POO with Python, JavaScript (Even though I don't like it) and React. Also learning sqlalchemy and API's.
 
 <br>
 
